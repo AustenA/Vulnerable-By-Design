@@ -1,0 +1,6 @@
+Configs to write:
+SSH
+PHP
+Apache
+Vsftpd
+ 
